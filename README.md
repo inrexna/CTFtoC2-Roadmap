@@ -30,6 +30,7 @@ Saya memperkuat dasar teknis dan profesional. Fokus tahun ini adalah membangun p
 **🏅 Sertifikasi & Target:**
 
 - THM Badge (Pentester Path)
+- Comptia Pentest+
 - 20+ lab web exploitation
 - 10+ write-up di blog atau GitHub
 
