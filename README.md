@@ -4,8 +4,6 @@ Saya memulai perjalanan di dunia cybersecurity sebagai seorang CTF player dan ki
 
 Roadmap ini mencakup perkembangan technical skills, soft skills, sertifikasi yang relevan, dan milestone tahunan.
 
-> 📌 Ingin melihat progres? Cek branch: `progress-journal` untuk update dan write-up harian!
-
 ---
 
 ## 📅 Tahun 1: Fondasi Profesional & Web Pentest
@@ -119,7 +117,7 @@ Saya mendalami teknik red team sebenarnya: weaponization, C2, EDR evasion, dan s
 **🏅 Sertifikasi & Target:**
 
 - TCM: Red Team Ops
-- CRTO (jika siap finansial)
+- CRTO 
 - Simulasi C2 Attack Chain documented
 
 ---
@@ -148,8 +146,8 @@ Saya menggabungkan semua keterampilan menjadi aset profesional. Fokus pada portf
 
 **🏅 Sertifikasi & Target:**
 
-- OSCP / CRTO (jika belum)
-- Bug bounty report (opsional)
+- OSCP / CRTO 
+- Bug bounty report 
 - Portfolio lengkap: GitHub + Blog + LinkedIn
 
 ---
